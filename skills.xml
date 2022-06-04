@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<lection_1>Linux terminal commands (GitBash)</lection_1>
+	<lection_2>Git</lection_2>
+	<lection_3>Git branch merge</lection_3>
+	<lection_4>Вводное занятие по JS</lection_4>
+	<lection_5>Занятие по JS (||, &&; Циклы for while)</lection_5>
+	<lection_6>Занятие по JS (функции, стрелочные функции, Chai Js)</lection_6>
+	<lection_7>Клиент-серверная архитектура + Postman</lection_7>
+	<lection_8>Postman (окружение, скрипты)</lection_8>
+	<lection_9>Тестирование форм</lection_9>
+	<lection_10>SQL</lection_10>
+</root>
